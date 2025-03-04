@@ -50,4 +50,4 @@ jobs:
           nohup node server.js > /dev/null 2>&1 &
           EOF
 
-          # deploy to ec2
+          # deploy to ec2 instance
